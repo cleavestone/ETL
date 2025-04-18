@@ -1,0 +1,6 @@
+pandas
+numpy
+pymongo
+requests
+python-dotenv
+pymongo[srv]
