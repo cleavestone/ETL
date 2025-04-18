@@ -1,6 +1,6 @@
 # 🌦️ Weather ETL Pipeline
 
-This project implements a robust **ETL (Extract, Transform, Load)** pipeline using **Apache Airflow**, **Docker**, and **Python**. The pipeline extracts real-time weather data from the OpenWeatherMap API, transforms it into a structured format, and loads it directly into a **MongoDB Atlas** (cloud database) for storage and future analysis.
+This project implements a robust **ETL (Extract, Transform, Load)** pipeline using **Apache Airflow** and **Python**. The pipeline extracts real-time weather data from the OpenWeatherMap API, transforms it into a structured format, and loads it directly into a **MongoDB Atlas** (cloud database) for storage and future analysis.
 
 ---
 
