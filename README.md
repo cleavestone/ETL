@@ -9,7 +9,6 @@ This project implements a robust **ETL (Extract, Transform, Load)** pipeline usi
 - ⛅ Extracts current weather data for multiple cities using OpenWeatherMap API
 - 🔄 Transforms raw JSON into clean, structured records with ISO timestamps
 - ☁️ Loads transformed data into **MongoDB Atlas (Cloud)**
-- 🐳 Containerized using Docker for seamless deployment
 - 📅 Scheduled and orchestrated with Apache Airflow
 
 ---
